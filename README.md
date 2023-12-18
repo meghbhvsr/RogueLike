@@ -14,3 +14,15 @@ down : down arrow or 'k'
 right : right arrow or 'l'
 left ; left arrow or 'j'
 And yes I wrote it in Java :)
+
+![image](https://github.com/meghbhvsr/RogueLike/assets/28023754/9d3aef51-7801-4c4e-b9ab-0b0c44de229a)
+![image](https://github.com/meghbhvsr/RogueLike/assets/28023754/14751f69-41d7-48ac-a228-1f2193cef7e0)
+![image](https://github.com/meghbhvsr/RogueLike/assets/28023754/62a4d9b5-9d45-46da-b081-a4e358251dce)
+![image](https://github.com/meghbhvsr/RogueLike/assets/28023754/ae28fefb-8e36-47e2-88f7-72f4fe6d7579)
+![image](https://github.com/meghbhvsr/RogueLike/assets/28023754/ef0a9b8a-6a12-4b53-89e8-4c96e240a87e)
+![image](https://github.com/meghbhvsr/RogueLike/assets/28023754/f82aa620-c782-410e-8f7e-1adaa0f4886f)
+
+
+
+
+
