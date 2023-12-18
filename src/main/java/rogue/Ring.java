@@ -2,7 +2,7 @@ package rogue;
 import java.awt.Point;
 import java.io.Serializable;
 
-public class Clothing extends Item implements Wearable, Serializable {
+public class Ring extends Magic implements Wearable, Serializable {
     private int id;
     private String name;
     private String type;
@@ -10,7 +10,7 @@ public class Clothing extends Item implements Wearable, Serializable {
     /**.
      *default
      */
-    public Clothing() {
+    public Ring() {
         super();
     }
 
@@ -20,7 +20,7 @@ public class Clothing extends Item implements Wearable, Serializable {
      * @param type2
      * @param xyLocation2
      */
-    public Clothing(int id2, String name2, String type2, Point xyLocation2) {
+    public Ring(int id2, String name2, String type2, Point xyLocation2) {
         super(id2, name2, type2, xyLocation2);
     }
     /**.
